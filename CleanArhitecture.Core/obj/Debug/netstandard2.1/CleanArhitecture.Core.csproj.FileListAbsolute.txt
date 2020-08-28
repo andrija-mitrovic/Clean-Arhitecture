@@ -1,0 +1,9 @@
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\bin\Debug\netstandard2.1\CleanArhitecture.Core.deps.json
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\bin\Debug\netstandard2.1\CleanArhitecture.Core.dll
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\bin\Debug\netstandard2.1\CleanArhitecture.Core.pdb
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.csprojAssemblyReference.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.AssemblyInfoInputs.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.AssemblyInfo.cs
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.dll
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Core\obj\Debug\netstandard2.1\CleanArhitecture.Core.pdb

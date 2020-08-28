@@ -1,0 +1,12 @@
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\bin\Debug\netstandard2.1\CleanArhitecture.Core.dll
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\bin\Debug\netstandard2.1\CleanArhitecture.Infrastructure.deps.json
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\bin\Debug\netstandard2.1\CleanArhitecture.Infrastructure.dll
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\bin\Debug\netstandard2.1\CleanArhitecture.Infrastructure.pdb
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\bin\Debug\netstandard2.1\CleanArhitecture.Core.pdb
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.csproj.CopyComplete
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.dll
+C:\Users\ANDRIJA\source\repos\CleanArhitecture\CleanArhitecture.Infrastructure\obj\Debug\netstandard2.1\CleanArhitecture.Infrastructure.pdb
